@@ -1,11 +1,33 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppThemeRed">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <item name="Header">@color/HeaderRed</item>
+        <item name="Light">@color/LightRed</item>
+        <item name="Form">@color/FormRed</item>
+        <item name="Accent"></item>
+    </style>
+
+    <style name="AppThemeBlue">
+        <item name="Header">@color/HeaderBlue</item>
+        <item name="Light">@color/LightBlue</item>
+        <item name="Form">@color/FormBlue</item>
+        <item name="Accent"></item>
+    </style>
+
+    <style name="AppThemeGreen">
+        <item name="Header">@color/HeaderGreen</item>
+        <item name="Light">@color/LightGreen</item>
+        <item name="Form">@color/FormGreen</item>
+        <item name="Accent"></item>
+    </style>
+
+    <style name="AppThemeBlack">
+        <item name="Header">@color/HeaderBlack</item>
+        <item name="Light">@color/LightBlack</item>
+        <item name="Form">@color/FormBlack</item>
+        <item name="Accent"></item>
     </style>
 
 </resources>
