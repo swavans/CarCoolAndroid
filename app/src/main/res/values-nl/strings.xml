@@ -4,4 +4,11 @@
     <string name="AddUser_name">Gebruiker Toevoegen</string>
     <string name="CarFinder_name">Rit Zoeken</string>
     <string name="Confirm_name">Bevestigen</string>
+    <string name="Accountsettings_name">Uw Account</string>
+    <string name="CarAdder_name">Rit Toevoegen</string>
+    <string name="Details_name">Details</string>
+    <string name="MyRides_name">Mijn Ritten</string>
+    <string name="Register_name">Aanmelden</string>
+    <string name="ReviewDriver_name">Beoordelen</string>
+
 </resources>
