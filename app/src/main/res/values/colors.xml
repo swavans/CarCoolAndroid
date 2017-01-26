@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="HeaderRed">#FF3D00</color>
+    <color name="LightRed">#FF5722</color>
+    <color name="FormRed">#FF8A65</color>
+    <color name="HeaderBlue">#03a9f4</color>
+    <color name="LightBlue">#4fc3f7</color>
+    <color name="FormBlue">#81d4fa</color>
+    <color name="HeaderGreen">#4CAF50</color>
+    <color name="LightGreen">#AEEA00</color>
+    <color name="FormGreen">#81C784</color>
+    <color name="HeaderBlack">#607d8b</color>
+    <color name="LightBlack">#9e9e9e</color>
+    <color name="FormBlack">#FF4081</color>
 </resources>
