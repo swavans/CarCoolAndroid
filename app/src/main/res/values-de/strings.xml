@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CarCool</string>
+    <string name="Confirm_name">Bestätigen</string>
+    <string name="AddUser_name">Benutzer hinzufügen</string>
+    <string name="CarFinder_name">Finden Sie eine Fahrt</string>
+</resources>
