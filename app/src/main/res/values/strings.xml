@@ -9,5 +9,6 @@
     <string name="ReviewPassenger_name">Review</string>
     <string name="MyRides_name">My rides</string>
     <string name="Accountsettings_name">Accountsettings</string>
+    <string name="MyReview_name">Review</string>
     
 </resources>
