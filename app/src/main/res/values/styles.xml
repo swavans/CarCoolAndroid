@@ -1,41 +1,41 @@
 <resources>
 
-    <style name="AppTheme">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimaryDark">@color/HeaderRed</item>
         <item name="colorPrimary">@color/LightRed</item>
-        <item name="colorForm">@color/FormRed</item>
+        <!--<item name="textColorSecondary">@color/FormRed</item>-->
         <item name="colorAccent">@color/HeaderBlue</item>
     </style>
 
-    <!-- Base application theme. -->
-    <style name="AppThemeRed">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimaryDark">@color/HeaderRed</item>
-        <item name="colorPrimary">@color/LightRed</item>
-        <item name="colorForm">@color/FormRed</item>
-        <item name="colorAccent">@color/HeaderBlue</item>
-    </style>
+    <!--&lt;!&ndash; Base application theme. &ndash;&gt;-->
+    <!--<style name="AppThemeRed">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimaryDark">@color/HeaderRed</item>-->
+        <!--<item name="colorPrimary">@color/LightRed</item>-->
+        <!--<item name="colorForm">@color/FormRed</item>-->
+        <!--<item name="colorAccent">@color/HeaderBlue</item>-->
+    <!--</style>-->
 
-    <style name="AppThemeBlue">
-        <item name="colorPrimaryDark">@color/HeaderBlue</item>
-        <item name="colorPrimary">@color/LightBlue</item>
-        <item name="colorForm">@color/FormBlue</item>
-        <item name="colorAccent">@color/HeaderGreen</item>
-    </style>
+    <!--<style name="AppThemeBlue">-->
+        <!--<item name="colorPrimaryDark">@color/HeaderBlue</item>-->
+        <!--<item name="colorPrimary">@color/LightBlue</item>-->
+        <!--<item name="colorForm">@color/FormBlue</item>-->
+        <!--<item name="colorAccent">@color/HeaderGreen</item>-->
+    <!--</style>-->
 
-    <style name="AppThemeGreen">
-        <item name="colorPrimaryDark">@color/HeaderGreen</item>
-        <item name="colorPrimary">@color/LightGreen</item>
-        <item name="colorForm">@color/FormGreen</item>
-        <item name="colorAccent"></item>
-    </style>
+    <!--<style name="AppThemeGreen">-->
+        <!--<item name="colorPrimaryDark">@color/HeaderGreen</item>-->
+        <!--<item name="colorPrimary">@color/LightGreen</item>-->
+        <!--<item name="colorForm">@color/FormGreen</item>-->
+        <!--<item name="colorAccent"></item>-->
+    <!--</style>-->
 
-    <style name="AppThemeBlack">
-        <item name="colorPrimaryDark">@color/HeaderBlack</item>
-        <item name="colorPrimary">@color/LightBlack</item>
-        <item name="colorForm">@color/FormBlack</item>
-        <item name="colorAccent"></item>
-    </style>
+    <!--<style name="AppThemeBlack">-->
+        <!--<item name="colorPrimaryDark">@color/HeaderBlack</item>-->
+        <!--<item name="colorPrimary">@color/LightBlack</item>-->
+        <!--<item name="colorForm">@color/FormBlack</item>-->
+        <!--<item name="colorAccent"></item>-->
+    <!--</style>-->
 
 </resources>
