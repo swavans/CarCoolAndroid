@@ -8,7 +8,8 @@
     <string name="CarAdder_name">Add a ride</string>
     <string name="ReviewPassenger_name">Review</string>
     <string name="MyRides_name">My rides</string>
-    <string name="Accountsettings_name">Accountsettings</string>
+    <string name="Accountsettings_name">Your account</string>
     <string name="MyReview_name">Review</string>
+    <string name="Edit_name">Edit account</string>
     
 </resources>
