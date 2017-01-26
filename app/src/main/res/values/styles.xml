@@ -3,7 +3,7 @@
     <!-- Base application theme. -->
     <style name="AppThemeRed">
         <!-- Customize your theme here. -->
-        <item name="Header">@color/HeaderRed</item>
+        <item name="ColorPr">@color/HeaderRed</item>
         <item name="Light">@color/LightRed</item>
         <item name="Form">@color/FormRed</item>
         <item name="Accent"></item>

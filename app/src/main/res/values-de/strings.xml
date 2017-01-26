@@ -2,12 +2,12 @@
 <resources>
     <string name="app_name">CarCool</string>
     <string name="Confirm_name">Bestätigen</string>
-    <string name="AddUser_name">Benutzer hinzufügen</string>
     <string name="CarFinder_name">Finden Sie eine Fahrt</string>
     <string name="Accountsettings_name">Ihr Konto</string>
     <string name="CarAdder_name">Fahrt hinzufügen</string>
     <string name="Details_name">Details</string>
     <string name="MyRides_name">Meinen Fahrten</string>
     <string name="Register_name">Registrieren</string>
-    <string name="ReviewDriver_name">Beurteilen</string>
+    <string name="Edit_name">Konto bearbeiten</string>
+    <string name="Review_name">Beurteilen</string>
 </resources>
